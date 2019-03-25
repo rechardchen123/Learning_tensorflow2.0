@@ -2,13 +2,13 @@
     "editor.fontSize": 16, //设置编辑器字体大小
     "terminal.integrated.fontSize": 15, //设置集成终端的字体大小
     "window.zoomLevel": 0.3,
-    "python.pythonPath": "C:\\Anaconda3\\python.exe", //设置python解释器路径
+    "python.pythonPath": "C:\\Anaconda3\\envs\\venv1\\python.exe", //设置python解释器路径
     "python.linting.pylintPath": "pylint",
     "python.formatting.autopep8Path": "autopep8",
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": false,
     "workbench.editor.enablePreview": false,
-    "python.formatting.provider": "yapf",
+    "python.formatting.provider": "autopep8",
     "files.autoSave": "afterDelay",
     "editor.wordWrapColumn": 100,
     "editor.wordWrap": "on",
